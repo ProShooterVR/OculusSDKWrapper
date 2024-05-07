@@ -17,7 +17,8 @@ A wrapper for Oculus Platform SDK, with accessible and easy functions
 ### Installation ⬇️:
 1. Get and Download **Meta XR All-in-One SDK** from [Unity Asset Store](https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657)
 2. Import **Meta XR All-in-One SDK**
-3. Create an **Empty Game Object**, and put **OculusSDKWrapper** on it
+3. On **GitHub**, go in **Releases**, download and import **OculusSDKWrapper.unitypackage**
+4. Create an **Empty Game Object**, and put **OculusSDKWrapper** on it
 
 ### Platform SDK Configuration 🔧:
 To get OculusSDKWrapper working we need to configure Platform SDK first
