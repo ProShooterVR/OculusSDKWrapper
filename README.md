@@ -38,6 +38,9 @@ In order to use current **OculusSDKWrapper**, you must complete **Data Use Check
 
 # Documentation 📑
 
+#### (All the methods have summaries in the script too)
+⚠️All variables are accessible through the instance. For example: `OculusSDKWrapper.instance.OculusUserData` is the Oculus User Data
+
 ### Get Oculus User Data
 
 Saves:
