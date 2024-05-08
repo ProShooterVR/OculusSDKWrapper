@@ -19,6 +19,7 @@ A wrapper for Oculus Platform SDK, with accessible and easy functions
 2. Import **Meta XR All-in-One SDK**
 3. On **GitHub**, go in **Releases**, download and import **OculusSDKWrapper.unitypackage**
 4. Create an **Empty Game Object**, and put **OculusSDKWrapper** on it
+5. Install [PlayFabWrapper](https://github.com/superpanos/PlayFabWrapper)
 
 ### Platform SDK Configuration 🔧:
 To get OculusSDKWrapper working we need to configure Platform SDK first
